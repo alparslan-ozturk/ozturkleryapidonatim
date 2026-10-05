@@ -1,2 +1,2 @@
-# ozturkleryapidonatim.com
+# ozturkleryapidonatim
 Öztürkler Yapı Donatım
